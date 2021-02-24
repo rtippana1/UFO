@@ -9,13 +9,13 @@ This project involved analyzing UFO sightings data stored in a JSON file format 
 The UFO sightings webpage was created to provide an easy way for users to filter through the JSON data and analyze the data on a web browser. The UFO data comprises of Date of Sighting, City, State, Country where the UFO was sighted, Shape of the UFO, Duration for which the UFO was sighted and comments added by the individual who sighted the UFO. Filters were added to be able to slice and dice the data by the Data, City, State, Country and Shape parameters. Using these filters, it is very easy to analyze factors like :
 
   * On a particular date how many UFOs were sighted
-  ![Date Capture](https://github.com/surchand30/UFOs/blob/main/Date%20Capture.PNG)
+  ![Date Capture](https://github.com/rtippana1/UFOs/blob/main/DataCapture.png)
   
   * At a particular location how many UFOs were sighted
-  ![Location Capture](https://github.com/surchand30/UFOs/blob/main/Location%20Capture.PNG)
+  ![Location Capture](https://github.com/rtippana1/UFOs/blob/main/LocationCapture.png)
   
   * How often was a circular UFO sighted
-  ![Shape Capture](https://github.com/surchand30/UFOs/blob/main/Shape%20Capture.PNG)
+  ![Shape Capture](https://github.com/rtippana1/UFOs/blob/main/ShapeCapture.png)
   
   
   The webpage also enables us to apply multiple filters to narrow down our search to specific attributes.
